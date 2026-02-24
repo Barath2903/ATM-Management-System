@@ -19,19 +19,7 @@ It validates inputs, handles errors, and restarts or re-prompts based on conditi
 2. Go to project folder:
 
 ```bash
-cd "/Users/barath/Shell Scripting"
-```
-
-3. Make executable (one-time):
-
-```bash
-chmod +x Transaction.sh
-```
-
-4. Run:
-
-```bash
-./Transaction.sh
+/Users/barath/Shell\ Scripting/ATM-Management-System/Transaction.sh
 ```
 
 ## 3. Step-by-Step Flow

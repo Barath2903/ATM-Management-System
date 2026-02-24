@@ -1,7 +1,5 @@
-#!/usr/bin/env bash
 
 # ATM Management System - Debit & Credit Transaction Process
-# Single-file implementation with required 5 functions.
 
 set -u
 

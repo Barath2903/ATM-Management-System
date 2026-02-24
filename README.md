@@ -21,6 +21,11 @@ It validates inputs, handles errors, and restarts or re-prompts based on conditi
 ```bash
 /Users/barath/Shell\ Scripting/ATM-Management-System/Transaction.sh
 ```
+3.Run
+
+```bash
+./Transaction.sh
+```
 
 ## 3. Step-by-Step Flow
 
